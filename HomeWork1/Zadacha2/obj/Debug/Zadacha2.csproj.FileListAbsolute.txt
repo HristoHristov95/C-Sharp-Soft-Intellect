@@ -1,0 +1,5 @@
+c:\users\hristov\documents\visual studio 2013\Projects\HomeWork1\Zadacha2\bin\Debug\Zadacha2.exe.config
+c:\users\hristov\documents\visual studio 2013\Projects\HomeWork1\Zadacha2\bin\Debug\Zadacha2.exe
+c:\users\hristov\documents\visual studio 2013\Projects\HomeWork1\Zadacha2\bin\Debug\Zadacha2.pdb
+c:\users\hristov\documents\visual studio 2013\Projects\HomeWork1\Zadacha2\obj\Debug\Zadacha2.exe
+c:\users\hristov\documents\visual studio 2013\Projects\HomeWork1\Zadacha2\obj\Debug\Zadacha2.pdb
