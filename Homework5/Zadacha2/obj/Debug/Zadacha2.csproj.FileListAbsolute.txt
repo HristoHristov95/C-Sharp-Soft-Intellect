@@ -1,0 +1,10 @@
+c:\users\hristov\documents\visual studio 2013\Projects\Homework5\Zadacha2\bin\Debug\Zadacha2.exe.config
+c:\users\hristov\documents\visual studio 2013\Projects\Homework5\Zadacha2Main\Zadacha2Main.exe.config
+c:\users\hristov\documents\visual studio 2013\Projects\Homework5\Zadacha2Main\bin\Debug\Zadacha2Main.exe.config
+c:\users\hristov\documents\visual studio 2013\Projects\Homework5\Zadacha2Main\bin\Debug\Zadacha2Main.exe
+c:\users\hristov\documents\visual studio 2013\Projects\Homework5\Zadacha2Main\bin\Debug\Zadacha2Main.pdb
+c:\users\hristov\documents\visual studio 2013\Projects\Homework5\Zadacha2Main\bin\Debug\Zadacha2.exe.config
+c:\users\hristov\documents\visual studio 2013\Projects\Homework5\Zadacha2\bin\Debug\Zadacha2.exe
+c:\users\hristov\documents\visual studio 2013\Projects\Homework5\Zadacha2\bin\Debug\Zadacha2.pdb
+c:\users\hristov\documents\visual studio 2013\Projects\Homework5\Zadacha2\obj\Debug\Zadacha2.exe
+c:\users\hristov\documents\visual studio 2013\Projects\Homework5\Zadacha2\obj\Debug\Zadacha2.pdb

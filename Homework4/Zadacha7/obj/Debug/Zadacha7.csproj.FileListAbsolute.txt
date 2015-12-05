@@ -1,0 +1,6 @@
+C:\Users\Hristov\documents\visual studio 2013\Projects\Homework4\Zadacha7\bin\Debug\Zadacha7.exe.config
+C:\Users\Hristov\documents\visual studio 2013\Projects\Homework4\Zadacha7\bin\Debug\Zadacha7.exe
+C:\Users\Hristov\documents\visual studio 2013\Projects\Homework4\Zadacha7\bin\Debug\Zadacha7.pdb
+C:\Users\Hristov\documents\visual studio 2013\Projects\Homework4\Zadacha7\obj\Debug\Zadacha7.csprojResolveAssemblyReference.cache
+C:\Users\Hristov\documents\visual studio 2013\Projects\Homework4\Zadacha7\obj\Debug\Zadacha7.exe
+C:\Users\Hristov\documents\visual studio 2013\Projects\Homework4\Zadacha7\obj\Debug\Zadacha7.pdb
