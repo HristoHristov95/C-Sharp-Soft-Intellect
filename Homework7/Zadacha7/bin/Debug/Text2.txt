@@ -1,0 +1,3 @@
+The apple is green.And the orange is "Blue"
+Does it have any meaning ? Yes OR no ? 
+"Sayd the poet and closed the show";
