@@ -1,0 +1,6 @@
+c:\users\hristov\documents\visual studio 2013\Projects\Homework8a\Homework8a\bin\Debug\Homework8a.exe.config
+c:\users\hristov\documents\visual studio 2013\Projects\Homework8a\Homework8a\bin\Debug\Homework8a.exe
+c:\users\hristov\documents\visual studio 2013\Projects\Homework8a\Homework8a\bin\Debug\Homework8a.pdb
+c:\users\hristov\documents\visual studio 2013\Projects\Homework8a\Homework8a\obj\Debug\Homework8a.exe
+c:\users\hristov\documents\visual studio 2013\Projects\Homework8a\Homework8a\obj\Debug\Homework8a.pdb
+C:\Users\Hristov\documents\visual studio 2013\Projects\Homework8a\Homework8a\obj\Debug\Homework8a.csprojResolveAssemblyReference.cache
