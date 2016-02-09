@@ -1,0 +1,9 @@
+c:\users\hristov\documents\visual studio 2013\Projects\Homework12\Homework12\bin\Debug\Homework12.exe.config
+C:\Users\Hristov\documents\visual studio 2013\Projects\Homework12\Homework12\bin\Debug\Homework12.exe
+C:\Users\Hristov\documents\visual studio 2013\Projects\Homework12\Homework12\bin\Debug\Homework12.pdb
+C:\Users\Hristov\documents\visual studio 2013\Projects\Homework12\Homework12\obj\Debug\Homework12.csprojResolveAssemblyReference.cache
+C:\Users\Hristov\documents\visual studio 2013\Projects\Homework12\Homework12\obj\Debug\Homework12.Form1.resources
+C:\Users\Hristov\documents\visual studio 2013\Projects\Homework12\Homework12\obj\Debug\Homework12.Properties.Resources.resources
+C:\Users\Hristov\documents\visual studio 2013\Projects\Homework12\Homework12\obj\Debug\Homework12.csproj.GenerateResource.Cache
+C:\Users\Hristov\documents\visual studio 2013\Projects\Homework12\Homework12\obj\Debug\Homework12.exe
+C:\Users\Hristov\documents\visual studio 2013\Projects\Homework12\Homework12\obj\Debug\Homework12.pdb
