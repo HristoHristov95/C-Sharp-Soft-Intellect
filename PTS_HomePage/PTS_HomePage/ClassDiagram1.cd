@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PTS_HomePage.DataTemplate" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAAASAAAAABAAAAIAgAAoAYAAABABAAAQAAAAAAAAM=</HashCode>
+      <FileName>DataTemplate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTS_HomePage.Home_Page" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAgQAKAAAAAEAAAAAAAAAIgAJAAAAAAYQAgIkAAA=</HashCode>
+      <FileName>Home Page.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTS_HomePage.ImagesClass" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>ImagesClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTS_HomePage.ReadDataFromFile" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>ReadDataFromFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTS_HomePage.WriteDataToFile" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WriteDataToFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="PTS_HomePage.engine_type" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAQAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataTemplate.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
